@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hola a todos 👋
+Soy Natali Rodriguez, estudiante de escuela técnica orientada en computación. Practico programación en lenguajes como Java, Python y PHP. Tengo experiencia en desarrollo web, porgramación orientada a objetos (POO) y bases de datos relacionales (MySQL). Me encanta aprender, por eso, tanto academicamente como personalmente, me he inscrito en cursos de programación; desarrollo web y de emprendimiento.
 
-<!--
-**Nat-rodri/Nat-rodri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+```java
+public class AboutMe {
+    public static void main(String[] args) {
+        String NOMBRE = "Natali Rodriguez 👩🏻";
+        String[] LENGUAJES = {"Java", "Python", "C#", "PHP", "SQL", "HTML", "CSS"};
+        String[] INTERESES = {"codificar 💻", "cantar 🎤", "escribir historias 📝", "dibujar 🖌️" };
+        String CONTACTO = "https://www.linkedin.com/in/rodriguez-piopio";
+    }
+}
