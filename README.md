@@ -6,7 +6,7 @@ Soy Natali Rodriguez, estudiante de escuela técnica orientada en computación. 
 public class AboutMe {
     public static void main(String[] args) {
         String NOMBRE = "Natali Rodriguez 👩🏻";
-        String[] LENGUAJES = {"Java", "Python", "C#", "PHP", "SQL", "HTML", "CSS"};
+        String[] HERRAMIENTAS = {"Java", "Python", "C#", "PHP", "SQL", "HTML", "CSS"};
         String[] INTERESES = {"codificar 💻", "cantar 🎤", "escribir historias 📝", "dibujar 🖌️" };
         String CONTACTO = "https://www.linkedin.com/in/rodriguez-piopio";
     }
